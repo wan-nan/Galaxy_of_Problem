@@ -1,3 +1,6 @@
-# Galaxy_of_Problem
+# readme
+
 记录LeetCode、AcWing等刷题网站刷题历程
-使用Gitbook
+
+使用Gitbook完成 😎  
+
