@@ -4,5 +4,3 @@
 
 使用Gitbook完成 😎  
 
-![](.gitbook/assets/image.png)
-
